@@ -81,3 +81,66 @@
 footer {
     padding: 50px;
 }
+#mouse-hover1{
+    position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}
+#mouse-hover2{
+    position: absolute;
+    display: none;
+    color:maroon;
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}
+#mouse-hover3{
+    position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}
+#mouse-hover4{
+    position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}
+#mouse-hover5{
+    position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}
+#mouse-hover6{
+    position: absolute;
+    display: none;
+    color: rgb(131, 0, 0);
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}
+#mouse-hover7{
+    position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}#mouse-hover8{
+    position: absolute;
+    display: none;
+    color: white;
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 2rem;
+}
