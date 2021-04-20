@@ -2,7 +2,7 @@
 .welcome {
     padding: 8%;
     color: white;
-    background-image: url(/h1img.jpg);
+    background-image:url(./images/h1img.jpg);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -12,7 +12,7 @@
 
 .services {
     color: white;
-    background-image: url(/s_image.jpg);
+    background-image:url(./images/s_image.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -22,7 +22,7 @@
 }
 
 .contact {
-    background-image: url(/del.jpg);
+    background-image:url(./images/del.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
