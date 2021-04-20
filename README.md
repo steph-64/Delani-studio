@@ -7,7 +7,7 @@ Basic Git knowledge, including an installed version of Git.
 - HTML & CSS 
 - Javascript
 ##### Setup Instructions and Installation
-- Clone this repository to a location in your file system. `git clone https://github.com/steph-64/AKAN.git'
+- Clone this repository to a location in your file system. `git clone https://steph-64.github.io/Delani-studio/'
 - Open terminal command line then navigate to the root folder of the application. `cd my-project`
 - Open `index.html` on your browser.
 ## Development
