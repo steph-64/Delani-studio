@@ -21,7 +21,7 @@ To fix a bug or enhance an existing module, follow these steps:S
 - Push to the branch (git push origin improve-feature)
 - Create a Pull Request
 ## Known Bugs
-Output is not always right.
+The output is not always right.
 ### License
 *MIT*
 Copyright (c) 2021 STEPHANIE SINET 
