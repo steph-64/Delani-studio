@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
-.welcome {
+#intro{
     padding: 8%;
     color: white;
     background-image:url(./images/h1img.jpg);
@@ -10,7 +10,7 @@
     width: 100%;
 }
 
-.services {
+ #steph{
     color: white;
     background-image:url(./images/s_image.jpg);
     background-position: center;
@@ -21,7 +21,7 @@
     width: 100%;
 }
 
-.contact {
+#final{
     background-image:url(./images/del.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -32,23 +32,22 @@
 }
 
 .input-field {
-    font: ;
     background: none;
-    width: 400px;
-    height: 40px;
-    margin-top: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
+    width: 500px;
+    height: 50px;
+    margin-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
     border-color: white;
     outline: none;
     background: transparent;
 }
 
 .input-field1 {
-    width: 800px;
-    margin-top: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
+    width: 700px;
+    margin-top: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
     border-color: white;
     outline: none;
     background: transparent;
